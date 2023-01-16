@@ -9,7 +9,7 @@ A Python Repository on Discrete Mathematics Introductory topics.
 -  [x] Graph theory: The study of graphs, including connectivity, paths, cycles, and graph algorithms.
 -  [x] Number theory: The study of the properties and behavior of integers, including divisibility, modular arithmetic, and number-theoretic algorithms.
 -  [x] Algebraic Structures: The study of algebraic systems like groups, rings, and fields.
--  [] Recursion: The study of recurrence relations and recursive algorithms.
+-  [x] Recursion: The study of recurrence relations and recursive algorithms.
 -  [x] Relations and functions: properties of relations and functions, such as injectivity, surjectivity, and inverse functions.
 
 These concepts form the foundation for more advanced topics in discrete mathematics, such as algorithms, automata, and complexity theory.
