@@ -3,7 +3,7 @@ A Python Repository on Discrete Mathematics Introductory topics.
 
 `Discrete mathematics` is a branch of mathematics that deals with __objects that can assume only discrete values__, such as integers, graphs, and logical statements. It is a fundamental area of mathematics that is used in computer science, engineering, and other fields that involve discrete structures and processes. Here are some key concepts in discrete mathematics for beginners:
 
--  [x] Logic: The study of reasoning and arguments, including propositional logic, predicate logic, and the principles of proof. 
+-  [x] [Logic](/DiscreteMath/MathNotebooks/Logic.ipynb): The study of reasoning and arguments, including propositional logic, predicate logic, and the principles of proof. 
 -  [x] Set theory: The study of sets, including set operations, relations, and functions.
 -  [x] Combinatorics: The study of counting and arranging elements, including permutations, combinations, and probability.
 -  [x] Graph theory: The study of graphs, including connectivity, paths, cycles, and graph algorithms.
